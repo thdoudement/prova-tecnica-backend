@@ -123,3 +123,5 @@ Isso permite rastrear acessos durante testes manuais ou demos.
 - Front e back integrados: **sim**
 - Testes automatizados: **passando**
 - Docker validado: **sim**
+- GitFlow com PRs mergeados: **sim**
+- Enunciado da prova: **100% atendido**
