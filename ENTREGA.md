@@ -26,7 +26,16 @@ feature/* ────────── funcionalidades
 | `feature/noticias-crud` | CRUD + paginação + cache | — |
 | `feature/busca-cep` | — | Busca CEP + testes BDD |
 
-Pull Requests criados no GitHub seguindo este fluxo.
+Pull Requests criados e **mergeados** no GitHub:
+
+| PR | Repositório | Descrição |
+|----|-------------|-----------|
+| [#2](https://github.com/thdoudement/prova-tecnica-backend/pull/2) | Backend | `feature/noticias-crud` → `develop` |
+| [#1](https://github.com/thdoudement/prova-tecnica-backend/pull/1) | Backend | `develop` → `main` (release) |
+| [#3](https://github.com/thdoudement/prova-tecnica-backend/pull/3) | Backend | sync final `develop` → `main` |
+| [#2](https://github.com/thdoudement/prova-tecnica-frontend/pull/2) | Frontend | `feature/busca-cep` → `develop` |
+| [#1](https://github.com/thdoudement/prova-tecnica-frontend/pull/1) | Frontend | `develop` → `main` (release) |
+| [#3](https://github.com/thdoudement/prova-tecnica-frontend/pull/3) | Frontend | sync final `develop` → `main` |
 
 ## Checklist do enunciado (100%)
 
