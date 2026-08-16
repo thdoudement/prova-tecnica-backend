@@ -128,3 +128,7 @@ npm run lint
 - Extrair fila para BullMQ/RabbitMQ mantendo a interface de `queue.js`.
 - Adicionar camada de repository se o domínio crescer além de Notícias.
 - Horizontalizar a API com stateless containers + PostgreSQL gerenciado.
+
+## Auditoria da prova técnica
+
+Checklist completo com requisitos, evidências e comandos de validação: **[AUDITORIA.md](./AUDITORIA.md)**.
